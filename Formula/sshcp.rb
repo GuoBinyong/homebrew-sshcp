@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Sshcp < Formula
-  desc "通过 updir 可以上传文本或代码到ssh服务器，并且支持灵活配置，该工具启动后，无需与用户交互，会自动根据配置来把指定的文件或目录上传到ssh服务器；"
+  desc "sshcp 命令使您可以通过一个简短的命令就把本地指定目录或文件 上传到 服务器的指定的目标目录中，或者 自动登录服务器，并转到指定的目标目录中。"
   homepage "https://github.com/GuoBinyong/sshcp"
-  url "https://github.com/GuoBinyong/sshcp/archive/v1.0.0.tar.gz"
-  sha256 "1aaa8fd53ce6954a9dece3244f762467df45f695a52d1534d3bf5ae86aff2ae1"
+  url "https://github.com/GuoBinyong/sshcp/archive/v1.1.0.tar.gz"
+  sha256 "30707eb96334fb9ee84572c62cdbcd62617f5834d7ea766224e3d81debfd96b6"
 
   # depends_on "cmake" => :build
 
