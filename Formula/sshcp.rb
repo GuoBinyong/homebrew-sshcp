@@ -4,8 +4,8 @@
 class Sshcp < Formula
   desc "sshcp 命令使您可以通过一个简短的命令就把本地指定目录或文件 上传到 服务器的指定的目标目录中，或者 自动登录服务器，并转到指定的目标目录中。"
   homepage "https://github.com/GuoBinyong/sshcp"
-  url "https://github.com/GuoBinyong/sshcp/archive/v1.1.1.tar.gz"
-  sha256 "97b5387678903d1088e356ea5318577ff198e80c454a1eb664af9a0af91853a5"
+  url "https://github.com/GuoBinyong/sshcp/archive/v1.2.0.tar.gz"
+  sha256 "5d9cd884b3c805ce802d177316c30560d3d773216b16599431be5264b0c85d47"
 
   # depends_on "cmake" => :build
 
